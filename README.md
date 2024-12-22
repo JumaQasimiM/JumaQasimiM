@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Juma Qasimi, and I do Desgin and Development.I really enjoy learing Languages and Framework like React , Python.</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Juma Qasimi, and I do Desgin and Development.</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jumaqasimim&label=Profile%20views&color=0e75b6&style=flat" alt="jumaqasimim" /> </p>
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **python and Javascript**
 
-- I’m interested in **web development and AI.**
+- 👀 I’m interested in **web development and AI.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
