@@ -1,4 +1,4 @@
-# Hi 👋
+
 <h1 align="center">Hi 👋, I'm Mohammad Juma Qasimi</h1>
 <h3 align="center">A passionate frontend developer from Afghanistan</h3>
 
