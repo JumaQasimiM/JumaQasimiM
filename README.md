@@ -1,5 +1,5 @@
 # Hi 👋
-- 👋 Hi, I’m Mohmmad Juma Qasimi
+- 👋 Hi, I’m Mohmmad Juma Qasimi from Afghanistan, and I do Desgin and Development.
 - 👀 I’m interested  in web development and AI
 - 🌱 I’m currently learning Python
 
