@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **python and Javascript**
 
-- 👀 I’m interested in ** Artificial Intelligence and Machine Learning**
+- 👀 I’m interested in **Artificial Intelligence and Machine Learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
