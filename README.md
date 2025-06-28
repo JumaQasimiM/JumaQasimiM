@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Reactjs and Python**
 
-- 👨‍💻 All of my projects are available at [https://jumaqasimim.github.io/Protfoliio/](https://jumaqasimim.github.io/Protfoliio/)
+- 👨‍💻 All of my projects are available at [https://jumaqasimim.github.io/Protfoliio/](https://jumaqasimim.github.io/Personal/)
 
 - 💬 Ask me about **python and Javascript**
 
