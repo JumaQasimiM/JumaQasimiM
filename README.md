@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jumaqasimim&label=Profile%20views&color=0e75b6&style=flat" alt="jumaqasimim" /> </p>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohammad-qasimi)
 
 - 🌱 I’m currently learning **Reactjs and Python**
 
