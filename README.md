@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Reactjs and Python**
 
-- 👨‍💻  my InfoPus24. simple project is available at [[https://jumaqasimim.github.io/Protfoliio/](https://jumaqasimim.github.io/Personal/)](https://jumaqasimim.github.io/InfoPlus24/)
+- 👨‍💻  my InfoPus24. simple project is available at (https://jumaqasimim.github.io/InfoPlus24/)
 
 - 💬 Ask me about **python and Javascript**
 
