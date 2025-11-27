@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Reactjs and Python**
 
-- 👨‍💻  my InfoPus24. simple project is available at (https://mh-jumaqasimi.netlify.app/)
+- 👨‍💻  my Portfolio  is available at (https://mh-jumaqasimi.netlify.app/)
 
 - 💬 Ask me about **python and Javascript**
 
