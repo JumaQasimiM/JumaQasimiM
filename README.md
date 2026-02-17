@@ -5,6 +5,7 @@
 [![LinkedIn]](https://www.linkedin.com/in/mohammad-qasimi)
 
 - 🌱 I’m currently learning **Reactjs and Python**
+-  🌱 I’m currently working on **City explor project** at( https://cityexplor26.netlify.app/ )
 
 - 👨‍💻  my Portfolio  is available at (https://mh-jumaqasimi.netlify.app/)
 
