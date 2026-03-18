@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Juma Qasimi</h1>
-<h3 align="center">Frontend Developer | JavaScript & Python Enthusiast</h3>
+<h3 align="center">Frontend Developer | Based in Germany 🇩🇪</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-qasimi">
@@ -8,17 +8,19 @@
   <a href="https://mh-jumaqasimi.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=jumaqasimim&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🚀 Frontend Developer passionate about building modern web apps  
-- 🌱 Currently learning **React.js & Python**  
+- 🚀 Frontend Developer passionate about building modern web applications  
+- 🌍 Currently living in **Germany 🇩🇪**  
+- 🌱 Learning **React.js & Python**  
 - 💡 Skilled in **JavaScript, React, Python**  
-- 🤖 Interested in **Artificial Intelligence & Machine Learning**  
-- 📫 Reach me at: **m.h.juma.qasimi@gmail.com**
+- 🤖 Interested in **AI & Machine Learning**  
+- 📫 Reach me at: **yourname@email.com**
 
 ---
 
@@ -29,18 +31,20 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,tailwind,mysql,git" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,bootstrap,tailwind,mysql,git,tensorflow" />
 </p>
 
 ---
 
-### 📊 Top Languages
+### 🌐 Connect with Me
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jumaqasimim&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="100%" />
+<a href="https://linkedin.com/in/mohammad-qasimi">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+</a>
 </p>
 
 ---
@@ -49,10 +53,27 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jumaqasimim&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jumaqasimim&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ---
 
+### 📈 Contribution Activity
+
 <p align="center">
-✨ Building projects and improving my skills every day ✨
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jumaqasimim&theme=tokyo-night" width="100%"/>
+</p>
+
+---
+
+### 🎯 Current Focus
+
+- ⚛️ Building modern React applications  
+- 🧠 Exploring AI & Machine Learning  
+- 🐍 Improving Python backend skills  
+
+---
+
+<p align="center">
+✨ Consistency + Learning = Growth 🚀
 </p>
