@@ -18,7 +18,7 @@
 - 🌱 Currently learning **React.js & Python**  
 - 💡 Skilled in **JavaScript, React, Python**  
 - 🤖 Interested in **Artificial Intelligence & Machine Learning**  
-- 📫 Reach me at: **yourname@email.com**
+- 📫 Reach me at: **m.h.juma.qasimi@gmail.com**
 
 ---
 
@@ -29,20 +29,10 @@
 
 ---
 
-### 🌐 Connect with Me
-
-<p align="left">
-<a href="https://linkedin.com/in/mohammad-qasimi" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-</a>
-</p>
-
----
-
 ### 🛠️ Languages & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,bootstrap,tailwind,mysql,git,tensorflow" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,tailwind,mysql,git" />
 </p>
 
 ---
