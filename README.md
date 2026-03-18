@@ -1,55 +1,47 @@
 <h1 align="center">Hi 👋, I'm Mohammad Juma Qasimi</h1>
-<h3 align="center">Frontend Developer | Based in Germany 🇩🇪</h3>
+<h3 align="center">Frontend Developer | JavaScript & Python Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-qasimi">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Qasimi-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Qasimi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://mh-jumaqasimi.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=vercel" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111?style=for-the-badge&logo=vercel"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=jumaqasimim&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=jumaqasimim&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🚀 Frontend Developer passionate about building modern web applications  
-- 🌍 Currently living in **Germany 🇩🇪**  
-- 🌱 Learning **React.js & Python**  
-- 💡 Skilled in **JavaScript, React, Python**  
-- 🤖 Interested in **AI & Machine Learning**  
-- 📫 Reach me at: **yourname@email.com**
+- 🚀 Frontend Developer focused on building clean & modern UI  
+- 🌱 Currently learning **React.js & Python**  
+- 💡 Strong in **JavaScript, React, Python**  
+- 🤖 Exploring **AI & Machine Learning**  
+- 📫 Reach me at: **m.h.juma.qasimi@gmail.com**
 
 ---
 
-### 🚀 Current Project
+### 🚀 Featured Project
 
-- 🌆 **City Explorer Project**  
-  🔗 https://cityexplor26.netlify.app/
+<p align="center">
+  <a href="https://cityexplor26.netlify.app/">
+    <img src="https://img.shields.io/badge/🌆%20City%20Explorer-Live%20Demo-0e75b6?style=for-the-badge"/>
+  </a>
+</p>
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,bootstrap,tailwind,mysql,git,tensorflow" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,tailwind,mysql,git" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
-
-<p align="center">
-<a href="https://linkedin.com/in/mohammad-qasimi">
-<img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-</a>
-</p>
-
----
-
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jumaqasimim&show_icons=true&theme=tokyonight" height="160"/>
@@ -58,22 +50,22 @@
 
 ---
 
-### 📈 Contribution Activity
+### 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jumaqasimim&theme=tokyo-night" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jumaqasimim&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
 
 ---
 
 ### 🎯 Current Focus
 
-- ⚛️ Building modern React applications  
-- 🧠 Exploring AI & Machine Learning  
-- 🐍 Improving Python backend skills  
+- ⚛️ Building scalable React applications  
+- 🧠 Learning AI concepts & real-world use cases  
+- 🐍 Strengthening Python skills  
 
 ---
 
 <p align="center">
-✨ Consistency + Learning = Growth 🚀
+  ✨ Keep building. Keep growing. 🚀
 </p>
