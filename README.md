@@ -14,13 +14,18 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 Currently learning **React.js & Python**
-- 🚀 Working on **City Explorer Project**  
+- 🚀 Frontend Developer passionate about building modern web apps  
+- 🌱 Currently learning **React.js & Python**  
+- 💡 Skilled in **JavaScript, React, Python**  
+- 🤖 Interested in **Artificial Intelligence & Machine Learning**  
+- 📫 Reach me at: **yourname@email.com**
+
+---
+
+### 🚀 Current Project
+
+- 🌆 **City Explorer Project**  
   🔗 https://cityexplor26.netlify.app/
-- 💻 Portfolio:  
-  🔗 https://mh-jumaqasimi.netlify.app/
-- 💬 Ask me about **JavaScript, Python**
-- 🤖 Interested in **Artificial Intelligence & Machine Learning**
 
 ---
 
@@ -42,32 +47,22 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jumaqasimim&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jumaqasimim&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jumaqasimim&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="100%" />
 </p>
 
 ---
 
-### 🚀 Current Focus
+### 📊 GitHub Stats
 
-- ⚛️ React Frontend Development  
-- 🧠 AI & Machine Learning  
-- 🐍 Python Backend Development  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jumaqasimim&show_icons=true&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
 <p align="center">
 ✨ Building projects and improving my skills every day ✨
 </p>
-
-
-
-
-<!---
-JumaQasimiM/JumaQasimiM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
