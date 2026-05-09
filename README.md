@@ -26,7 +26,7 @@
 ### 🚀 Featured Project
 
 <p align="center">
-  <a href="[https://beyondja.netlify.app/]">
+  <a href="https://beyondja.netlify.app/">
     <img src="https://img.shields.io/badge/🌆%20City%20Explorer-Live%20Demo-0e75b6?style=for-the-badge"/>
   </a>
 </p>
