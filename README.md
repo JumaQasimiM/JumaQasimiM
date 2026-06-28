@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/mohammad-qasimi">
     <img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Qasimi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://mh-jumaqasimi.netlify.app/">
+  <a href="https://jumaqasimi.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-111?style=for-the-badge&logo=vercel"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=jumaqasimim&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
@@ -19,7 +19,7 @@
 - 🌱 Currently learning **React.js & Python**  
 - 💡 Strong in **JavaScript, React, Python**  
 - 🤖 Exploring **AI & Machine Learning**  
-- 📫 Reach me at: **m.h.juma.qasimi@gmail.com**
+- 📫 Reach me at: **juma82db@gmail.com**
 
 ---
 
